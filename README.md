@@ -14,6 +14,6 @@ This repository contain project Oracle Database for some startUPs which will run
 Each table contain appropriate constraints and connections between tables. \
 Repository also include prepared file with examples data to check database.\
 \
-This SQL Oracle code can be used and modyficated but with previous repository cytation.\
+This SQL Oracle code can be used and modyficated but with previous repository cytation.
 
 
