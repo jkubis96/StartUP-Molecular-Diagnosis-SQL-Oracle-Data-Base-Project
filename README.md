@@ -12,4 +12,4 @@ This repository contains the project Oracle Database for some startUPs which wil
 -test results for each patient.\
 \
 Each table contains appropriate constraints and connections between tables. \
-The repository also includes a prepared file with examples of data to check the database.\
+The repository also includes a prepared file with examples of data to check the database.
