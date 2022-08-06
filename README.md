@@ -1,6 +1,6 @@
-# StartUP-Molecular-Diagnosis-SQL-Oracle-Data-Base-Project
+StartUP-Molecular-Diagnosis-SQL-Oracle-Data-Base-Project
 
-This repository contain project Oracle Database for some startUPs which will run molecular diagnosis diseases (including pathogens and/or genetic diseases). This database include table with information about:\
+This repository contains the project Oracle Database for some startUPs which will run molecular diagnosis diseases (including pathogens and/or genetic diseases). This database includes a table with information about:\
 -patients,\
 -patients' medical data,\
 -tests,\
@@ -8,12 +8,8 @@ This repository contain project Oracle Database for some startUPs which will run
 -patients' family interview,\
 -dictionary (with basic job positions),\
 -magazine,\
--emloyees, \
+-employees, \
 -test results for each patient.\
 \
-Each table contain appropriate constraints and connections between tables. \
-Repository also include prepared file with examples data to check database.\
-\
-This SQL Oracle code can be used and modyficated but with previous repository cytation.
-
-
+Each table contains appropriate constraints and connections between tables. \
+The repository also includes a prepared file with examples of data to check the database.\
